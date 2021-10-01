@@ -1,7 +1,6 @@
-Read ME . md
-#2021-Probono Project
-## 노약자를 위한 공개용 STT API를 이용한 인공지능 보이스피싱 방지 시스템 👵👴
-## AI voice phishing prevention system using STT API for the elderly and the weak
+# 2021-Probono Project
+# 노약자를 위한 공개용 STT API를 이용한 인공지능 보이스피싱 방지 시스템 👵👴
+# AI voice phishing prevention system using STT API for the elderly and the weak
 #### Project nickname : 피싱빠슝
 #### Project execution period : 2021.05~2021.11
 #### Project Hosting : [한이음](https://www.hanium.or.kr/portal/index.do)
@@ -16,6 +15,7 @@ Read ME . md
 
 ### 1. function list
 ![noname01](https://user-images.githubusercontent.com/78933101/135653625-d14db805-ab5e-4505-a7b0-5d0a3af2ad59.png)
+
 |구분|기능|구현|
 |------|---|---|
 |S/W|통화데이터 추출|SNIFFING|
