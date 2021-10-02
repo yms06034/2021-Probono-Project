@@ -74,7 +74,7 @@ H/W 구성도
 
 `ETRI_STT.py` STT ETRI Open API
 
-`STTPPver2.py` Speech to Text & Preprocessing
+`STTpreprocessing.py` Speech to Text & Preprocessing
 
 `VOICETEST1.wav` Voice file
 
@@ -82,7 +82,7 @@ H/W 구성도
 
 `VOICETEST3.wav` Voice file
 
-`Engine.py` RNN Model ML Engine
+`model.py` RNN Model ML Engine
 
 `yesvp.txt` voice phishing  txt file
 
