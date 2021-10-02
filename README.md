@@ -67,19 +67,27 @@ H/W 구성도
 
 ## Files
 `KorEDA_yes.py` Data Augmentation
+
 `KorEDA_not.py` Data Augmentation
+
 `wordnet.pickle` Word Dictionary
 
 `ETRI_STT.py` STT ETRI Open API
+
 `STTPPver2.py` Speech to Text & Preprocessing
+
 `VOICETEST1.wav` Voice file
+
 `VOICETEST2.wav` Voice file
+
 `VOICETEST3.wav` Voice file
 
 `Engine.py` RNN Model ML Engine
 
 `yesvp.txt` voice phishing  txt file
+
 `notvp.txt` not phishing txt file
+
 `stop_words_new` stop words txt file
 
 `main.py` Main 
