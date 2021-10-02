@@ -19,7 +19,7 @@
 |구분|기능|구현|
 |------|---|---|
 |S/W|통화데이터 추출|SNIFFING|
-|S/W|음성 데이터 텍스트 변환|STT OPEN APT(KAKAO or ETRI)|
+|S/W|음성 데이터 텍스트 변환|STT OPEN API(ETRI)|
 |S/W|데이터 분석|Deep Learning|
 |H/W|분석 모듈|Raspberry Pi 4|
 
