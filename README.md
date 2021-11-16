@@ -2,7 +2,7 @@
 # 노약자를 위한 공개용 STT API를 이용한 인공지능 보이스피싱 방지 시스템 👵👴
 # AI voice phishing prevention system using STT API for the elderly and the weak
 #### Project nickname : 피싱빠슝
-#### Project execution period : 2021.05~2021.11
+#### Project execution period : 2021.04.30~2021.12
 #### Project Hosting : [한이음](https://www.hanium.or.kr/portal/index.do)
 #### GIT LAB URL : [GIT LAB](https://lab.hanium.or.kr/21_PF020/21_pf020)
 -----------------------
