@@ -4,6 +4,7 @@
 #### Project nickname : 피싱빠슝
 #### Project execution period : 2021.05~2021.11
 #### Project Hosting : [한이음](https://www.hanium.or.kr/portal/index.do)
+#### GIT LAB URL : [GIT LAB](https://lab.hanium.or.kr/21_PF020/21_pf020)
 -----------------------
 ## Description
 피싱빠슝은 보이스피싱 취약계층을 위한 보이스피싱 경고 시스템으로, 유선 전화나 인터넷 전화에서의 통화내용을 실시간으로 분석하고, 보이스피싱일 경우 LED로 경고한다.
